@@ -1,0 +1,33 @@
+header {
+  margin-bottom: 25px;
+  .logo {
+    img {
+      width: 160px;
+    }
+  }
+
+  .search {
+    padding-top: 25px;
+  }
+
+  .navigation {
+    padding-top: 25px;
+  }
+
+  .tools {
+    padding-top: 38px;
+
+    .pi {
+      margin-right: 10px;
+    }
+  }
+  .signin{
+    background-color: #e992c8;
+    color: white;
+    padding: 10px;
+    margin-top: 35px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+}

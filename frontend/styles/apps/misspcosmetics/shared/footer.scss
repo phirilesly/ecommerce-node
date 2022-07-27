@@ -1,0 +1,27 @@
+footer {
+  background-color: #e992c8;
+  min-height: 50px;
+  padding: 10px 25px;
+  width: 100%;
+  margin-top: 25px;
+  color:white;
+
+  .footer-wrapper {
+    align-items: center;
+
+    .social {
+      margin-top: 15px;
+      text-align: right;
+      
+      
+      .nav {
+        justify-content: flex-end;
+        
+      }
+      .nav li a {
+        color: white;
+        cursor: pointer;
+    }
+    }
+  }
+}
